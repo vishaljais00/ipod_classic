@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cdb17587.css",
+    "main.js": "/static/js/main.8e258b22.js",
+    "static/media/BlueJelly.png": "/static/media/BlueJelly.f4c605133ffd5b465312.png",
+    "static/media/AudioTapes.png": "/static/media/AudioTapes.a5d48d204e03408b41db.png",
+    "static/media/DHARIA  Sugar  Brownies.mp3": "/static/media/DHARIA  Sugar  Brownies.a0d4eac39c571ea00726.mp3",
+    "static/media/BlueCubes.png": "/static/media/BlueCubes.adafdb5ac63814c57e2b.png",
+    "static/media/Billie Eilish  Six Feet Under.mp3": "/static/media/Billie Eilish  Six Feet Under.9b0aaec01894fcf0675f.mp3",
+    "static/media/Confetti  Ghost.mp3": "/static/media/Confetti  Ghost.493a409a0d04290bb4ed.mp3",
+    "static/media/Jony Love Your Voice.mp3": "/static/media/Jony Love Your Voice.cee175383b6b8fc7abdf.mp3",
+    "static/media/Besomorph  Silent Child  IDGAF.mp3": "/static/media/Besomorph  Silent Child  IDGAF.f866dd625733920fbdd5.mp3",
+    "static/media/game.jpg": "/static/media/game.39b5dc814246f5eafc3d.jpg",
+    "static/media/Besomorph  Silent Child  IDGAF.png": "/static/media/Besomorph  Silent Child  IDGAF.303452e8320d49c9cd85.png",
+    "static/media/settings.png": "/static/media/settings.e0158f7b671d8a93c11a.png",
+    "static/media/DHARIA  Sugar  Brownies.png": "/static/media/DHARIA  Sugar  Brownies.dc287a1fdfaa4178ae8d.png",
+    "static/media/Jony Love Your Voice.png": "/static/media/Jony Love Your Voice.d46ea72622934fd22499.png",
+    "static/media/Confetti  Ghost.png": "/static/media/Confetti  Ghost.2ed2f5175a3bba2b7d20.png",
+    "static/media/Billie Eilish  Six Feet Under.png": "/static/media/Billie Eilish  Six Feet Under.32aad8dc2ae7944eb489.png",
+    "index.html": "/index.html",
+    "main.cdb17587.css.map": "/static/css/main.cdb17587.css.map",
+    "main.8e258b22.js.map": "/static/js/main.8e258b22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdb17587.css",
+    "static/js/main.8e258b22.js"
+  ]
+}
