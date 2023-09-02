@@ -38,10 +38,10 @@ class KnowMore extends React.Component {
                     <p>7. Songs do play, Please checkout settings menu</p>
                     <p>Github-Link : <a href="https://github.com/vishaljais00/ipod_classic">iPod</a> 
                     </p>
-                    <p>Hosting-Link : <a href="">iPod-Hosted</a> 
+                    <p>Hosting-Link : <a href="https://ipod-classic-vishaljais00.vercel.app/">iPod-Hosted</a> 
                     </p>
                     <p>App Developed by : <a href="https://github.com/vishaljais00">Vishal Jais</a></p>
-                    <p>credits : Apple, Flaticon, </p>
+                    <p>credits : Apple, Flaticon</p>
                 </div>
                 <button id="info-btn" onClick={this.openDiv}>Know More</button>
             </div>
